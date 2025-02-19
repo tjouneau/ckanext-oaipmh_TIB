@@ -1,3 +1,5 @@
+# FOR TESTING PURPOSES ONLY, DO NOT USE.
+
 # CKAN Harvester for OAI-PMH
 
 Original built from Open Search Data and made changes according to NFDI4Chem harvesting & adoption.
