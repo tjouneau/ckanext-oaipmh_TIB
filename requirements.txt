@@ -24,7 +24,7 @@ ckan==2.9.3
 click==7.1.2
 click-default-group==1.2.2
 colorama==0.4.3
-command-not-found==0.3
+#command-not-found==0.3
 cookiecutter==1.7.3
 coverage==5.5
 coveralls==3.2.0
